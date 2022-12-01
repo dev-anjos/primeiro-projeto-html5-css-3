@@ -1,0 +1,89 @@
+
+#banner{
+    width: 100%;
+
+}
+
+.principal {
+    background-color: #CCCCCC;
+    padding: 30px;
+    text-align: center;
+}
+
+.titulo-principal {
+    padding: 20px;
+}
+
+.titulocenter{
+    text-align: center;
+}
+
+.texto {
+    font-size: 20px; text-align: center;
+    background: #CCCCCC;
+}
+
+#missao{
+    font-size: 20px;
+}
+
+em strong {
+    color: #ff0000;
+}
+
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios {
+    background: white;
+    padding: 20px;
+    
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
+}
+
+.imagembeneficios {
+    width: 50%;
+    
+}
+
+.voltar {
+        
+    width: 10%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border:none;
+    border-radius: 5px;
+    transition: 0.5s all;
+    cursor: pointer;
+    
+    }
+ a{
+     color: black;
+     text-decoration: none;
+ }
+
+ a:hover{
+     color: #C78C19;
+ }
+footer{
+    text-align: center;
+    background: url("rodape.jpg");
+    padding: 40px 0px;
+
+}
+.copyright{
+    font-size: 13px;
+    color: white;
+    margin: 20px 0 0;
+}
